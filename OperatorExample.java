@@ -10,7 +10,10 @@ public class OperatorExample{
      count--;
      
    System.out.println(count);
-    
+ 
+boolean isTrue=false;
+System.out.println(!isTrue);
+   
 }
 
 }
